@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QR</string>
+    <string name="scanning_qr_code">Scanning QR Code</string>
+    <integer name="viewfinder_border_width">4</integer>
+    <integer name="viewfinder_border_length">60</integer>
+</resources>
